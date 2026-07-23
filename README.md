@@ -1,4 +1,4 @@
-# dokumentasi-simrs
+
 # Panduan Implementasi SIMRS di Rumah Sakit Indonesia
 
 Digitalisasi layanan kesehatan kini menjadi kewajiban bagi setiap fasilitas kesehatan. Salah satu langkah paling krusial adalah memilih [SIMRS](https://simrscendana.id/) yang tepat dan sesuai dengan regulasi Kemenkes.
